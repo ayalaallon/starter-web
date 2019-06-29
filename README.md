@@ -9,6 +9,7 @@ hi hi hi
 
 Hi hi hi hih
 
+ADD TEXTs
 ## Purpose
 
 Sample website with plenty of files for demos
