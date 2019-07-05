@@ -3,6 +3,8 @@
 This repository is for showing how Git and GitHub work
 Hi
 
+Adding a line for rebasing example
+
 more hi hi hi
 
 hi hi hi
